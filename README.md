@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **MERN Stack, Django framework.**
 
-- 👨‍💻 All of my projects are available at [github.com/rajeshpoojari39](github.com/rajeshpoojari39)
+- 👨‍💻 All of my projects are available at [https://www.github.com/rajeshpoojari39](github.com/rajeshpoojari39)
 
 - 💬 Ask me about **Anything related to Web Development.**
 
 - 📫 How to reach me **rajeshpoojari39@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/rajesh-poojari](linkedin.com/in/rajesh-poojari)
+- 📄 Know about my experiences [https://www.linkedin.com/in/rajesh-poojari](linkedin.com/in/rajesh-poojari)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
